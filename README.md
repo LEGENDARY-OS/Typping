@@ -8,3 +8,7 @@ Typping repl
 
 - IT HELPS TO INCREASE MESSAGE AMOUNT IN THE CHATFIGHTBOT
 - YOU NEED TO JOIN https://t.me/typewithbestie TO MAKE THE BOT WORK
+
+
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-brown)](https://replit.com/@LEGENDARY-OS/Typping#main.py)
