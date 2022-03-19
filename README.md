@@ -11,4 +11,4 @@ Typping repl
 
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-brown)](https://replit.com/@LEGENDARY-OS/Typping#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://replit.com/@LEGENDARY-OS/Typping#main.py)
